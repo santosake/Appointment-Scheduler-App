@@ -1,0 +1,23 @@
+Recorded Timestamps for User Logins:
+test has logged in at 2/4/2019 5:27:30 PM
+test has logged in at 2/4/2019 5:28:22 PM
+test has logged in at 2/5/2019 11:10:06 AM
+test has logged in at 2/5/2019 8:18:04 PM
+test has logged in at 2/5/2019 8:32:38 PM
+test has logged in at 2/5/2019 8:37:51 PM
+test has logged in at 2/5/2019 9:42:04 PM
+test has logged in at 2/6/2019 11:27:08 AM
+test has logged in at 2/6/2019 11:31:10 AM
+test has logged in at 2/6/2019 2:06:30 PM
+test has logged in at 2/6/2019 2:08:20 PM
+test has logged in at 2/6/2019 2:10:18 PM
+test has logged in at 2/6/2019 3:09:06 PM
+test has logged in at 2/6/2019 3:11:57 PM
+test has logged in at 2/6/2019 3:13:53 PM
+test has logged in at 2/6/2019 3:20:10 PM
+test has logged in at 2/6/2019 3:26:26 PM
+test has logged in at 2/6/2019 3:37:27 PM
+test has logged in at 2/6/2019 5:44:14 PM
+test has logged in at 2/6/2019 5:57:41 PM
+test has logged in at 2/6/2019 6:00:18 PM
+test has logged in at 2/6/2019 6:01:44 PM
